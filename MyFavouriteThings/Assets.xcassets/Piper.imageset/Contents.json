@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Piper.jpg",
+      "filename" : "Piper.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Piper-1.jpg",
+      "filename" : "Piper-2.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Piper-2.jpg",
+      "filename" : "Piper-1.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }
